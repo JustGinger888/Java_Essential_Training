@@ -1,8 +1,6 @@
-package simpleCalculator;
-
 import java.util.Scanner;
 
-public class Main {
+public class simpleCalculator {
 
     public static void main(String[] args) {
         var scanner = new Scanner(System.in);
